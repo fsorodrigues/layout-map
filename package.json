@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Project template with React, Webpack",
   "main": "index.js",
-  "homepage": 'https://fsorodrigues.github.io/layout-map/',
   "scripts": {
     "test": "mocha './src/**/*.test.js' --compilers js:babel-core/register",
     "test:watch": "npm test -- --watch",
